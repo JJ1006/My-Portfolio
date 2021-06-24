@@ -392,6 +392,10 @@ section .title::after{
 .skills-content .right .java::before{
     width: 80%;
 }
+.bullet {
+    color: rgb(63, 40, 40);
+    margin-left: 4%;
+}
 
 /* teams section styling
 .teams .title::after{
