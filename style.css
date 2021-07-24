@@ -78,7 +78,7 @@ section .title::after{
 
 /* navbar styling */
 .navbar{
-    position: fixed;
+    position: sticky;
     background-color: black;
     width: 100%;
     z-index: 999;
@@ -88,6 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
+    position: sticky;
     background: crimson;
 }
 .navbar .max-width{
