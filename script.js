@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer", "Blogger", "Programmer", "Freelancer", "Designer"],
+        strings: ["RBC","ISRO - Space Technology", "BISAG","CurlsHub", "Khatri Designers","Perspect Classess"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
