@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["RBC","ISRO - Space Technology", "BISAG","CurlsHub", "Khatri Designers","Perspect Classess"],
+        strings: ["ISRO: Govt Space Org", "BISAG: Govt Defence Agency","CurlsHub", "Khatri Designers","Perspect Classess"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
